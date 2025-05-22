@@ -20,7 +20,11 @@
 
 ## ToDoList 桌面任务管理工具
 
+
 ToDoList 是基于 PyQt5 开发的桌面任务管理工具，具备半透明美观的界面设计和多项实用功能，旨在提升日常任务的管理效率。
+
+![ToDoList](./pic/ToDoList.png)
+
 
 ### 功能说明
 
@@ -40,7 +44,7 @@ ToDoList 是基于 PyQt5 开发的桌面任务管理工具，具备半透明美�
 ## AutoClick 连点器工具
 
 AutoClick 是一款轻量级的鼠标自动连点工具，适用于需要频繁点击的场景，提升操作效率，减少重复劳动。
-
+![AotoClick](./pic/AotoClick.png)
 ### 主要功能
 
 -支持用户自定义点击间隔（秒，支持小数）
